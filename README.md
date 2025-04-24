@@ -76,6 +76,28 @@ M109 S235
 G1 X60.0 Y50.0 Z5.2 F3000.0
 ```
 
+## Modelo Torre de temperatura:
+
+![](doc/Heat-Test.png)
+![](doc/Heat-TestMod.png)
+
+- [Modelo](https://www.thingiverse.com/thing:2223651)
+
+Torre de aquecimento (190-240 °C). Com ou sem teste de ponte.
+
+O Teaching Tech tem um ótimo vídeo mostrando este produto: [https://youtu.be/3yIebnVjADM?t=266](https://youtu.be/3yIebnVjADM?t=266)
+
+O DoogieRick também postou um vídeo com este produto.
+[https://youtu.be/FPumsgvBt00](https://youtu.be/FPumsgvBt00)
+
+**Configurações de impressão:**
+
+* **Rafts:** Não
+* **Suportes:** Não
+* **Preenchimento:** 10%
+* **Observações:** Defina a temperatura base para 240 °C e incrementos de -5 °C a cada 5 mm. O Script usa como padrão este modelo e estas configurações.
+
+
 ---
 
 ## 📤 Contribuindo
