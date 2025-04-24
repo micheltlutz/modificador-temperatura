@@ -37,7 +37,7 @@ Ideal para testes de qualidade de impressão com diferentes temperaturas.
 3. **Execute o script**:
 
    ```bash
-   python gcode_temp_tower_batch.py
+   python main.py
    ```
 
 4. **Parâmetros opcionais**:
