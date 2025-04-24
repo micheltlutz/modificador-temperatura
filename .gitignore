@@ -1,0 +1,25 @@
+# Ignore arquivos temporários do macOS
+.DS_Store
+
+# Ignore arquivos temporários do Windows
+Thumbs.db
+ehthumbs.db
+*.tmp
+
+# Ignore cache e outros arquivos não versionáveis
+__pycache__/
+*.py[cod]
+*.log
+
+# Mantenha pastas input_gcode e output_gcodes mesmo vazias
+!input_gcode/
+!output_gcodes/
+
+# Ignore todo o conteúdo interno por padrão (será sobrescrito se desejar arquivos dentro)
+input_gcode/*
+output_gcodes/*
+
+# Ignore ambiente virtual Python
+venv/
+.env/
+.venv/
